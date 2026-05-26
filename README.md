@@ -9,3 +9,7 @@
 ## Dataset
 
 [UCI Mushroom](https://www.openml.org/search?type=data&status=active&id=24&sort=runs)
+
+## Vídeo
+
+[Enlace vídeo](https://youtube.com)
