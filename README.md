@@ -12,5 +12,4 @@
 
 ## Vídeo
 
-[Enlace vídeo] ( https://drive.google.com/file/d/1Rqz2FfJjD55-FeHFaNjzeZhCWEYWdgiL/view?usp=sharing ) 
-)
+[Enlace vídeo](https://drive.google.com/file/d/1Rqz2FfJjD55-FeHFaNjzeZhCWEYWdgiL/view?usp=sharing)
